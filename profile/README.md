@@ -10,3 +10,4 @@ Welcome to my GitHub repository! This repo contains various assignments I have c
 4. Implemented an ORderManagement Functionality in Apache Ofbiz
 5. Completed OMS setup locally
 6. Completed SQL Assignment 1
+7. Completed SQL Assignment 2
