@@ -11,3 +11,5 @@ Welcome to my GitHub repository! This repo contains various assignments I have c
 5. Completed OMS setup locally
 6. Completed SQL Assignment 1
 7. Completed SQL Assignment 2
+8. Completed SQL Assignment 3
+9. Implemented an order management plugin with create, update and delete functionality.
