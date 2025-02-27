@@ -13,3 +13,4 @@ Welcome to my GitHub repository! This repo contains various assignments I have c
 7. Completed SQL Assignment 2
 8. Completed SQL Assignment 3
 9. Implemented an order management plugin with create, update and delete functionality.
+10. Implemented the customer mgr functionality
